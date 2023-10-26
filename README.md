@@ -11,7 +11,12 @@ Hugo Lemble - A1 <br>
 
 # Planning SAE.03 :
 
+Toutes les informations sur ce qu'il y a faire pour les livrables de la SAE.O3 sur qui fait quoi sont présentes dans le planning ci-dessous :
+
 # Planning SAE.04 : 
+
+Toutes les informations sur ce qu'il y a faire pour les livrables de la SAE.O4 sur qui fait quoi sont présentes dans le planning ci-dessous :
+
 
 
 
