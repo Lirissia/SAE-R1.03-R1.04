@@ -3,15 +3,15 @@
 SAE S1 BUT Informatique Belfort
 2023
 
-#Membres groupe : 
+# Membres groupe : 
 
 Vince - A1
 Manon Lamblot - A1
 Hugo Lemble - A1
 
-#Planning SAE.03 :
+# Planning SAE.03 :
 
-#Planning SAE.04 : 
+# Planning SAE.04 : 
 
 
 
